@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/kred-feed/static/css/main.a617e044.chunk.css",
-    "main.js": "/kred-feed/static/js/main.4ec556bb.chunk.js",
-    "main.js.map": "/kred-feed/static/js/main.4ec556bb.chunk.js.map",
-    "runtime-main.js": "/kred-feed/static/js/runtime-main.3bf39923.js",
-    "runtime-main.js.map": "/kred-feed/static/js/runtime-main.3bf39923.js.map",
-    "static/js/2.44731375.chunk.js": "/kred-feed/static/js/2.44731375.chunk.js",
-    "static/js/2.44731375.chunk.js.map": "/kred-feed/static/js/2.44731375.chunk.js.map",
-    "static/js/3.06f01be7.chunk.js": "/kred-feed/static/js/3.06f01be7.chunk.js",
-    "static/js/3.06f01be7.chunk.js.map": "/kred-feed/static/js/3.06f01be7.chunk.js.map",
+    "main.css": "/kred-feed/static/css/main.9c22f387.chunk.css",
+    "main.js": "/kred-feed/static/js/main.c00c3534.chunk.js",
+    "main.js.map": "/kred-feed/static/js/main.c00c3534.chunk.js.map",
+    "runtime-main.js": "/kred-feed/static/js/runtime-main.c533925d.js",
+    "runtime-main.js.map": "/kred-feed/static/js/runtime-main.c533925d.js.map",
+    "static/css/2.c06d0c15.chunk.css": "/kred-feed/static/css/2.c06d0c15.chunk.css",
+    "static/js/2.19fa2660.chunk.js": "/kred-feed/static/js/2.19fa2660.chunk.js",
+    "static/js/2.19fa2660.chunk.js.map": "/kred-feed/static/js/2.19fa2660.chunk.js.map",
     "index.html": "/kred-feed/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/kred-feed/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.44731375.chunk.js.LICENSE.txt": "/kred-feed/static/js/2.44731375.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/kred-feed/static/media/logo.6ce24c58.svg"
+    "static/css/2.c06d0c15.chunk.css.map": "/kred-feed/static/css/2.c06d0c15.chunk.css.map",
+    "static/css/main.9c22f387.chunk.css.map": "/kred-feed/static/css/main.9c22f387.chunk.css.map",
+    "static/js/2.19fa2660.chunk.js.LICENSE.txt": "/kred-feed/static/js/2.19fa2660.chunk.js.LICENSE.txt",
+    "static/media/logo-kred-feed.db67282a.png": "/kred-feed/static/media/logo-kred-feed.db67282a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3bf39923.js",
-    "static/js/2.44731375.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.4ec556bb.chunk.js"
+    "static/js/runtime-main.c533925d.js",
+    "static/css/2.c06d0c15.chunk.css",
+    "static/js/2.19fa2660.chunk.js",
+    "static/css/main.9c22f387.chunk.css",
+    "static/js/main.c00c3534.chunk.js"
   ]
 }
