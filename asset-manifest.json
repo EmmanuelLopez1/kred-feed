@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kred-feed/static/css/main.af85abf7.chunk.css",
-    "main.js": "/kred-feed/static/js/main.73383e27.chunk.js",
-    "main.js.map": "/kred-feed/static/js/main.73383e27.chunk.js.map",
+    "main.js": "/kred-feed/static/js/main.215ccf3f.chunk.js",
+    "main.js.map": "/kred-feed/static/js/main.215ccf3f.chunk.js.map",
     "runtime-main.js": "/kred-feed/static/js/runtime-main.c533925d.js",
     "runtime-main.js.map": "/kred-feed/static/js/runtime-main.c533925d.js.map",
     "static/css/2.dfe2a913.chunk.css": "/kred-feed/static/css/2.dfe2a913.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.dfe2a913.chunk.css",
     "static/js/2.18e48a0f.chunk.js",
     "static/css/main.af85abf7.chunk.css",
-    "static/js/main.73383e27.chunk.js"
+    "static/js/main.215ccf3f.chunk.js"
   ]
 }
