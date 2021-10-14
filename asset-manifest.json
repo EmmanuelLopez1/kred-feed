@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/kred-feed/static/css/main.7dc0181b.chunk.css",
-    "main.js": "/kred-feed/static/js/main.db25c0fd.chunk.js",
-    "main.js.map": "/kred-feed/static/js/main.db25c0fd.chunk.js.map",
+    "main.js": "/kred-feed/static/js/main.38104cee.chunk.js",
+    "main.js.map": "/kred-feed/static/js/main.38104cee.chunk.js.map",
     "runtime-main.js": "/kred-feed/static/js/runtime-main.c533925d.js",
     "runtime-main.js.map": "/kred-feed/static/js/runtime-main.c533925d.js.map",
     "static/css/2.dfe2a913.chunk.css": "/kred-feed/static/css/2.dfe2a913.chunk.css",
-    "static/js/2.9dd9436d.chunk.js": "/kred-feed/static/js/2.9dd9436d.chunk.js",
-    "static/js/2.9dd9436d.chunk.js.map": "/kred-feed/static/js/2.9dd9436d.chunk.js.map",
+    "static/js/2.8f9c4984.chunk.js": "/kred-feed/static/js/2.8f9c4984.chunk.js",
+    "static/js/2.8f9c4984.chunk.js.map": "/kred-feed/static/js/2.8f9c4984.chunk.js.map",
     "index.html": "/kred-feed/index.html",
     "static/css/2.dfe2a913.chunk.css.map": "/kred-feed/static/css/2.dfe2a913.chunk.css.map",
     "static/css/main.7dc0181b.chunk.css.map": "/kred-feed/static/css/main.7dc0181b.chunk.css.map",
-    "static/js/2.9dd9436d.chunk.js.LICENSE.txt": "/kred-feed/static/js/2.9dd9436d.chunk.js.LICENSE.txt",
+    "static/js/2.8f9c4984.chunk.js.LICENSE.txt": "/kred-feed/static/js/2.8f9c4984.chunk.js.LICENSE.txt",
     "static/media/logo-kred-feed.db67282a.png": "/kred-feed/static/media/logo-kred-feed.db67282a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c533925d.js",
     "static/css/2.dfe2a913.chunk.css",
-    "static/js/2.9dd9436d.chunk.js",
+    "static/js/2.8f9c4984.chunk.js",
     "static/css/main.7dc0181b.chunk.css",
-    "static/js/main.db25c0fd.chunk.js"
+    "static/js/main.38104cee.chunk.js"
   ]
 }
